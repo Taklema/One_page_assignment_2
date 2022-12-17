@@ -53,3 +53,83 @@ margin: 0;
     border-color: white;
     border-radius: 7%;
 }
+
+/* section 2 */
+.s-two{
+    text-align: center;
+    background-color: rgb(205, 235, 243);
+    padding-top: 0%;
+    padding-bottom: 4%;
+    margin-top: 0%;
+}
+.general-heading{
+    font-size: 35px;
+    margin-top: -2%;
+    margin-bottom: 1%;
+    padding-top: 4%;
+}
+
+/* form */
+.domain-search{
+    background-color: rgb(255, 255, 255);
+    margin-left: 35%;
+    margin-right: 35%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#domain-name{
+    border: none;
+    font-size: 20px;
+}
+.domain-btn{
+    font-size: 20px;
+    border: none;
+}
+.search-btn{
+    font-size: 20px;
+    background-color: blue;
+    border: none;
+    padding: 7px 25px 7px 25px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+/* domain pricing div organizing */
+.domain-pricing{
+    display: flex;
+    font-size: 17px;
+    padding-left: 32%;
+}
+.dot{
+    padding-right: 22px;
+}
+
+/* section 3 */
+.s-three{
+    text-align: center;
+}
+/* main div */
+.s3-main-div{
+    display: flex;
+    text-align: left;
+    padding-right: 8%;
+    padding-bottom: 1%;
+    padding-left: 8%;
+}
+.s3-main-div2{
+    display: flex;
+    text-align: left;
+    padding-right: 8%;
+    padding-bottom: 1%;
+    padding-left: 8%;
+}
+.services{
+    text-align: justify;
+    padding-right: 5%;
+    padding-left: 2%;
+    background-color: rgb(250, 247, 247);
+    margin-right: 3%;
+
+}
+.img-position{
+
+}
